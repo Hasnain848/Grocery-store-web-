@@ -66,10 +66,6 @@ For any queries or suggestions, feel free to contact:
 - **Ibtrahim:** [GitHub](https://github.com/IbtrahimGithub) *(Replace with actual GitHub username if available)*
 - **Obaid:** [GitHub](https://github.com/ObaidGithub) *(Replace with actual GitHub username if available)*
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 *Feel free to update the repository URL, add team members' GitHub links, or modify the content as needed!*
 
