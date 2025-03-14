@@ -1,6 +1,6 @@
 # 🛒 Grocery Store Website
 
-![🖼️ Website Screenshot]([https://grocerystorewebsite-olive.vercel.app/preview.png](https://github.com/Hasnain848/Grocery-store-web-/blob/main/Images/banner3-min.png?raw=true))
+![🖼️ Website Screenshot](https://github.com/Hasnain848/Grocery-store-web-/blob/main/Images/banner3-min.png?raw=true)
 
 ## 📌 Project Overview
 This project is an online grocery store website developed by **Hasnain, Ibtrahim, and Obaid**. The website provides users with an intuitive interface to browse, search, and purchase groceries online. The website is hosted at: [🌐 Grocery Store Website](https://grocerystorewebsite-olive.vercel.app/).
