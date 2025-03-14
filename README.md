@@ -15,8 +15,8 @@ This project is an online grocery store website developed by **Hasnain, Ibtrahim
 ## Developers
 This project was developed by:
 - **Hasnain** - [GitHub](https://github.com/Hasnain848)
-- **Ibtrahim** - [GitHub](https://github.com/IbtrahimGithub) *(Replace with actual GitHub username if available)*
-- **Obaid** - [GitHub](https://github.com/ObaidGithub) *(Replace with actual GitHub username if available)*
+- **Ibtrahim** - [GitHub]([https://github.com/IbtrahimGithub](https://github.com/maybethemuhammadibrahim)) 
+- **Obaid** - [GitHub]([https://github.com/ObaidGithub](https://github.com/Obaid03)) 
 
 ## Technology Used
 - **Frontend:** HTML, CSS, JavaScript
